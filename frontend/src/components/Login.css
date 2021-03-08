@@ -1,0 +1,48 @@
+.form-control-user {
+    font-size: .8rem;
+    border-radius: 10rem;
+    padding: 1.5rem 1rem;
+}
+.btn-user {
+    font-size: .8rem;
+    border-radius: 10rem;
+    padding: .75rem 1rem;
+}
+.btn-google {
+    color: #fff;
+    background-color: #ea4335;
+    border-color: #fff;
+}
+.btn-facebook {
+    color: #fff;
+    background-color: #3b5998;
+    border-color: #fff;
+}
+
+.button, .input {
+    overflow: visible;
+}
+.button, .input, .optgroup, .select, .textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+.facebook-button-class{
+    color: #fff;
+    background-color: #3b5998;
+    border-color: #fff;
+}
+.fa{
+    margin: 0 0.5rem!important;
+}
+
+.text-center{
+    cursor: pointer
+}
+.text-center a:hover {
+    background-color: lightblue;
+    font-size: 115%;
+    /* text-decoration-style: dotted; */
+  }
