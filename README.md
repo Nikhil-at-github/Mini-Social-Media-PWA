@@ -3,4 +3,4 @@ This is a small social media app (PWA) - still under process. Technologies used 
 
 ![alt text](https://drive.google.com/file/d/1wh1LKck6K-TdKt3mlLWG_ixXaf08Xqgc/view?usp=sharing)
 
-![alt text](https://github.com/Nikhil-at-github/Mini-Social-Media-PWA/frontend/src/Images/[master]/Avatars (2).png?raw=true)
+![alt text](https://github.com/Nikhil-at-github/Mini-Social-Media-PWA/frontend/src/Images/1.png?raw=true)
